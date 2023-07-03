@@ -1,1 +1,1 @@
-# electronboilerplate
+# ElectronJS BoilerPlate
